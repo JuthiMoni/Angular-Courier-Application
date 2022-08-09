@@ -8,5 +8,38 @@ day1.txt [notun text file nilm okhne likhsi]
 git status 
 git add . [ ]
 git status [check korlm hoyse kina]
+git commit -m "initial commit" [ commit ]
+git status
+git log
+git log --oneline [history check]
+branch create
+git branch [branch check]
+git checkout -b "future" [branch create + switch/move]
+git branch [ check korbo jeta colour hoa takhbe okhne asi okhne kaj korbo
+okhne file create kore likhbo future branch e]
+[tarpor add+ commit+ status sob kore nibo git log diye check kore nibo
+akhn master branch e oi likha ba file pabo na jar jnno amdr maser branch e ashte hobe]
+11
+git checkout master [master branch e chole ashlm]
+git branch [ check korbo maseter e takha oboshta te mearge korbo]
+git merge future [merge hoa gase]
+		local er sate remorte connect
+akhon github e jbo new repository  create kore nibo 
+[repository name dibo discription likhbo {private korbo}
+create repository dibo }
+desktop er sate connect korbo
+git remote add origin https://github.com//juthimoni/test.txt [amon link takhbe oita copy kore niye cmd te aise pase korbo]
+create hoa gale origin likha ashbe
+git remote [ager tekhe ase kina check kora jai]
+		push korar jnno cmd te
+git push -u origin main [aita dibo amdr cmd te jodi master takhe taile main kete master dibo]
+git branch -m main [ branch er name rename]
+sob ja ja kaj korsi sob sob github e chole ashbe
+
+
+
+
+
+
 
 		
