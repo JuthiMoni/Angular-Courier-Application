@@ -1,0 +1,12 @@
+			cmd	
+
+cd desktop 
+mkdir java {folder create}
+cd java [folder e gelam]
+git init [git initialize]
+day1.txt [notun text file nilm okhne likhsi]
+git status 
+git add . [ ]
+git status [check korlm hoyse kina]
+
+		
