@@ -35,6 +35,8 @@ git remote [ager tekhe ase kina check kora jai]
 git push -u origin main [aita dibo amdr cmd te jodi master takhe taile main kete master dibo]
 git branch -m main [ branch er name rename]
 sob ja ja kaj korsi sob sob github e chole ashbe
+		repository tekhe cmd//
+
 
 
 
